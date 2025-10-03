@@ -1,0 +1,38 @@
+# IDE
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Local configs
+local.properties
+
+# Build outputs
+.gradle
+/build
+/app/build/
+captures/
+.externalNativeBuild
+.cxx
+
+# OS-specific
+.DS_Store
+
+# Android generated files
+*.apk
+*.aab
+*.ap_
+*.hprof
+
+# Keystore / secrets
+*.jks
+*.keystore
+keystore.properties
+
+# Firebase / Google services
+**/google-services.json
+**/GoogleService-Info.plist
